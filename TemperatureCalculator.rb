@@ -8,7 +8,7 @@ end
 
 puts "Temperature converter Menu : "
 puts "1. Celsius to Fahrenheit. "
-puts "1. Fahrenheit to Celsius. "
+puts "2. Fahrenheit to Celsius. "
 
 loop do 1
 print "Enter choice : "
